@@ -1,9 +1,23 @@
 [
   {
-    "nome_modulo": "OSPlus.exe",
-    "descricao": "Executavel Principal",
-    "tamanho": "1.5 MB",
-    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/OSPlus.exe",
+    "nome_modulo": "Sistema.exe",
+    "descricao": "Executavel Principal do Sistema",
+    "tamanho": "2.5 MB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/Sistema.exe",
     "versao_disponivel": "2.0.0.0"
+  },
+  {
+    "nome_modulo": "barras.ini",
+    "descricao": "Arquivo de Configuracoes de Codigo de Barras",
+    "tamanho": "12 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/barras.ini",
+    "versao_disponivel": "1.0.0.1"
+  },
+  {
+    "nome_modulo": "Termos.txt",
+    "descricao": "Termos e Condicoes de Uso",
+    "tamanho": "5 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/Termos.txt",
+    "versao_disponivel": "1.0.0.0"
   }
 ]
