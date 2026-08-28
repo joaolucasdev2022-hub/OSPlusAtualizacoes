@@ -42,4 +42,12 @@
     "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/ssleay32.dll",
     "versao_disponivel": "1.0.0.0"
   } 
+
+  {
+    "nome_modulo": "Suporte.exe",
+    "descricao": "Aplicativo de Supoorte dos Sistemas",
+    "tamanho": "21,39 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/Suporte.exe",
+    "versao_disponivel": "1.0.0.0"
+  } 
 ]
