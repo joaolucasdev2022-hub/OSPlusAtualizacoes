@@ -20,4 +20,26 @@
     "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/Termos.txt",
     "versao_disponivel": "1.0.0.0"
   }
+
+   {
+    "nome_modulo": "Atualizador.exe",
+    "descricao": "Atualizador do Sistema",
+    "tamanho": "1,53 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/Atualizador.exe",
+    "versao_disponivel": "1.0.0.0"
+  }
+{
+    "nome_modulo": "libeay32.dll",
+    "descricao": "DLL para envio de email de suporte",
+    "tamanho": "1,39 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/libeay32.dll",
+    "versao_disponivel": "1.0.0.0"
+  }
+ {
+    "nome_modulo": "ssleay32.dll",
+    "descricao": "DLL para envio de email de suporte 2",
+    "tamanho": "1,39 KB",
+    "url_download": "https://github.com/joaolucasdev2022-hub/OSPlusAtualizacoes/releases/download/v1.0.0/ssleay32.dll",
+    "versao_disponivel": "1.0.0.0"
+  } 
 ]
